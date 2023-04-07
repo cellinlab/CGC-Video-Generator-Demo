@@ -4,6 +4,12 @@ CGC-Video-Generator-Demo is a research-based demo repository created to explore 
 
 [中文版本](./README_CN.md)
 
+## Directory
+
+- [code_samples](./code_samples) - This folder contains code samples that demonstrate how to generate CGC videos using different tools and techniques. These code examples can help others understand how to use different tools and techniques to generate CGC videos. You can classify them by tool or technique, and provide descriptions and usage instructions for the code examples in the `README.md` file.
+
+- [articles](./articles) - This folder contains the latest academic papers and news updates related to CGC. These articles cover various topics such as the development of CGC technology, use cases, challenges, and trends. You can classify them by date, topic, or other criteria, and provide detailed information such as titles, authors, publication dates, and links in the `README.md` file.
+
 ## Features
 
 The demo repository includes the following features:

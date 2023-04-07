@@ -2,6 +2,13 @@
 
 CGC-Video-Generator-Demo 是一个基于研究的演示仓库，旨在探索计算机生成内容（CGC）视频生成器的潜力和局限性。该演示版本展示使用不同工具和技术生成的各种类型的 CGC 视频，例如动画、字幕和特效。
 
+[View English Version](./README.md)
+
+## 目录
+
+- [code_samples](./code_samples)
+- [articles](./articles)
+
 ## 功能
 
 该演示仓库包括以下功能：
